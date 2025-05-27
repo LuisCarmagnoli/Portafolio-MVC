@@ -12,7 +12,7 @@ RUN dotnet restore
 RUN dotnet publish -c Release -o /out
 
 # Etapa 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
 WORKDIR /app
 
 # Copiamos la app publicada desde la etapa anterior
