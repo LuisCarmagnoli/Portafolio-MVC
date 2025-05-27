@@ -90,10 +90,11 @@ C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\De
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\Portafolio.dll
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\refint\Portafolio.dll
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\Portafolio.pdb
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\Portafolio.genruntimeconfig.cache
 C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\ref\Portafolio.dll
-C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\compressed\81oqzyq2mb-m6rg0gjtpr.gz
+C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\Portafolio.sourcelink.json
+C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\compressed\81oqzyq2mb-6hbudpbqtm.gz
+C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

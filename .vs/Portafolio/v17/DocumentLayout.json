@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|c:\\users\\user\\desktop\\asp.net core udemy\\portafolio\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|c:\\users\\user\\desktop\\asp.net core udemy\\portafolio\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|c:\\users\\user\\desktop\\asp.net core udemy\\portafolio\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|c:\\users\\user\\desktop\\asp.net core udemy\\portafolio\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|c:\\users\\user\\desktop\\asp.net core udemy\\portafolio\\portafolio\\portafolio\\services\\servicioemailgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC94D52B-E439-4784-8CC6-4846AE49817D}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\services\\servicioemailgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:28:30.306Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -34,41 +43,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T11:23:04.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
-              "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
-              "RelativeToolTip": "Portafolio\\wwwroot\\css\\custom.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T11:21:06.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T10:29:42.985Z",
+              "Title": "ServicioEmailGmail.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Services\\ServicioEmailGmail.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Services\\ServicioEmailGmail.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\Services\\ServicioEmailGmail.cs",
+              "RelativeToolTip": "Portafolio\\Services\\ServicioEmailGmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:09:55.325Z",
               "EditorCaption": ""
             }
           ]

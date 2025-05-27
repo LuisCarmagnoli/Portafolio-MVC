@@ -64,7 +64,12 @@ C:\Users\user\Desktop\ASP.NET Core Udemy\Portafolio\Portafolio\Portafolio\wwwroo
 wwwroot\css\custom.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagenes\amazon.png
+wwwroot\imagenes\dotnet-imagen-2.png
 wwwroot\imagenes\foto.png
+wwwroot\imagenes\nyt.png
+wwwroot\imagenes\reddit.png
+wwwroot\imagenes\steam.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

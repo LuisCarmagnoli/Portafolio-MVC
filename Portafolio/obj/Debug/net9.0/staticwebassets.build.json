@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zK0sb2JNgWME3EkIEXBgcQdk+xzcFfrpd6j8KT75Ly0=",
+  "Hash": "waBSI5sJR1JHCvP/fb1gjofgC0+zdXQPboJ9TDRVZNk=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-m6rg0gjtpr.gz",
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-6hbudpbqtm.gz",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Portafolio",
-      "RelativePath": "css/custom#[.{fingerprint=m6rg0gjtpr}]?.css.gz",
+      "RelativePath": "css/custom#[.{fingerprint=6hbudpbqtm}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tu1q8iieul",
-      "Integrity": "G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM=",
+      "Fingerprint": "357ykgj6io",
+      "Integrity": "WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m6rg0gjtpr",
-      "Integrity": "np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU=",
+      "Fingerprint": "6hbudpbqtm",
+      "Integrity": "ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
@@ -1487,6 +1487,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/amazon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8atnpsgb8m",
+      "Integrity": "AF2Jcm+/6xNN1mOshAKdKP7VO29nvx+g5NnajYH38GU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\amazon.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dotnet-imagen-2.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/dotnet-imagen-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9041pic96n",
+      "Integrity": "iQvIQRuOucxzdzVAy4Th2D2TPpAycIfW4jmx28KuIyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\dotnet-imagen-2.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -1506,6 +1548,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\foto.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\nyt.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/nyt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8yrrn2og5g",
+      "Integrity": "QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\nyt.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/reddit#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2vjroee0il",
+      "Integrity": "snI3FeVGlO3AlMJ4dBGRQ84WlfXYdU/G0y8KqmRJFis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\reddit.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steam.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/steam#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "60p42lxcyp",
+      "Integrity": "lh2o6OKuzexH7NesXO4JVJMZt5K5yvZwrfWUAAUMrSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\steam.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
@@ -2791,13 +2896,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/custom.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-m6rg0gjtpr.gz",
+      "Route": "css/custom.6hbudpbqtm.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-6hbudpbqtm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.011111111111"
+          "Quality": "0.003401360544"
         }
       ],
       "ResponseHeaders": [
@@ -2807,19 +2912,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89"
+          "Value": "293"
         },
         {
           "Name": "ETag",
-          "Value": "\"G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM=\""
+          "Value": "\"WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2835,18 +2940,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU=\""
+          "Value": "W/\"ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "6hbudpbqtm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU="
+          "Value": "sha256-ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak="
         }
       ]
     },
     {
-      "Route": "css/custom.css",
+      "Route": "css/custom.6hbudpbqtm.css",
       "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2856,7 +2969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80"
+          "Value": "559"
         },
         {
           "Name": "Content-Type",
@@ -2864,121 +2977,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU=\""
+          "Value": "\"ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.css.gz",
-      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-m6rg0gjtpr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.m6rg0gjtpr.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-m6rg0gjtpr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.011111111111"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m6rg0gjtpr"
+          "Value": "6hbudpbqtm"
         },
         {
           "Name": "label",
@@ -2986,13 +2999,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU="
+          "Value": "sha256-ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak="
         }
       ]
     },
     {
-      "Route": "css/custom.m6rg0gjtpr.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "Route": "css/custom.6hbudpbqtm.css.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-6hbudpbqtm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3001,7 +3014,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80"
+          "Value": "293"
         },
         {
           "Name": "Content-Type",
@@ -3009,56 +3022,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU=\""
+          "Value": "\"WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m6rg0gjtpr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/custom.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-np3Ggu0uiLl0EB4hif4FIIPFk29Hr+ChVVw23VGXJXU="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.m6rg0gjtpr.css.gz",
-      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-m6rg0gjtpr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:52 GMT"
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3076,7 +3044,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m6rg0gjtpr"
+          "Value": "6hbudpbqtm"
         },
         {
           "Name": "label",
@@ -3084,7 +3052,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G0QYpDmrlwT4cpP/YGsqXTE/kwiu1N/SKOThCgmpbDM="
+          "Value": "sha256-WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-6hbudpbqtm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003401360544"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZglmpJ4H6ybL9UIWs+/4ioUvt7qT6u80DbGtYgsvgak="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net9.0\\compressed\\81oqzyq2mb-6hbudpbqtm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 13:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSNHk3fAhMrctL5pCOxihlrzha9Bek4WoiP5IFKsuMY="
         }
       ]
     },
@@ -3685,6 +3790,170 @@
       ]
     },
     {
+      "Route": "imagenes/amazon.8atnpsgb8m.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AF2Jcm+/6xNN1mOshAKdKP7VO29nvx+g5NnajYH38GU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8atnpsgb8m"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/amazon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AF2Jcm+/6xNN1mOshAKdKP7VO29nvx+g5NnajYH38GU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/amazon.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AF2Jcm+/6xNN1mOshAKdKP7VO29nvx+g5NnajYH38GU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AF2Jcm+/6xNN1mOshAKdKP7VO29nvx+g5NnajYH38GU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dotnet-imagen-2.9041pic96n.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dotnet-imagen-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQvIQRuOucxzdzVAy4Th2D2TPpAycIfW4jmx28KuIyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:47:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9041pic96n"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/dotnet-imagen-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iQvIQRuOucxzdzVAy4Th2D2TPpAycIfW4jmx28KuIyw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dotnet-imagen-2.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dotnet-imagen-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQvIQRuOucxzdzVAy4Th2D2TPpAycIfW4jmx28KuIyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:47:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iQvIQRuOucxzdzVAy4Th2D2TPpAycIfW4jmx28KuIyw="
+        }
+      ]
+    },
+    {
       "Route": "imagenes/foto.ii8i9c4yj0.png",
       "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
       "Selectors": [],
@@ -3763,6 +4032,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-mhS3v896qpNUF5IePcdgVn0qF4BLP5WQxvHOQwWEBbc="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/nyt.8yrrn2og5g.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\nyt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8yrrn2og5g"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/nyt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/nyt.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\nyt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/reddit.2vjroee0il.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"snI3FeVGlO3AlMJ4dBGRQ84WlfXYdU/G0y8KqmRJFis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vjroee0il"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/reddit.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-snI3FeVGlO3AlMJ4dBGRQ84WlfXYdU/G0y8KqmRJFis="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/reddit.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"snI3FeVGlO3AlMJ4dBGRQ84WlfXYdU/G0y8KqmRJFis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-snI3FeVGlO3AlMJ4dBGRQ84WlfXYdU/G0y8KqmRJFis="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/steam.60p42lxcyp.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2710698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lh2o6OKuzexH7NesXO4JVJMZt5K5yvZwrfWUAAUMrSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "60p42lxcyp"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/steam.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lh2o6OKuzexH7NesXO4JVJMZt5K5yvZwrfWUAAUMrSw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/steam.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2710698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lh2o6OKuzexH7NesXO4JVJMZt5K5yvZwrfWUAAUMrSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lh2o6OKuzexH7NesXO4JVJMZt5K5yvZwrfWUAAUMrSw="
         }
       ]
     },
@@ -21753,7 +22268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21806,7 +22321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21843,7 +22358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21890,7 +22405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21951,7 +22466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21996,7 +22511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22051,7 +22566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22112,7 +22627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22157,7 +22672,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22212,7 +22727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22265,7 +22780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22302,7 +22817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 10:17:10 GMT"
+          "Value": "Fri, 23 May 2025 23:21:32 GMT"
         },
         {
           "Name": "Cache-Control",

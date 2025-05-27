@@ -1,3 +1,6 @@
+using Portafolio.Models;
+using Portafolio.Services;
+
 namespace Portafolio
 {
     public class Program
@@ -6,8 +9,12 @@ namespace Portafolio
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.WebHost.UseStaticWebAssets();
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
+            builder.Services.AddTransient<IServicioEmail, ServicioEmailGmail>();
 
             var app = builder.Build();
 
