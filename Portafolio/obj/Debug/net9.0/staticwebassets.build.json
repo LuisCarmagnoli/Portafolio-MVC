@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "waBSI5sJR1JHCvP/fb1gjofgC0+zdXQPboJ9TDRVZNk=",
+  "Hash": "uM3wLUF9xZegYLPk5y9B8aXgsTEB2rKev0HJNcmotck=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -1569,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\nyt.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\portafolio-funcionando.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/portafolio-funcionando#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4eveln2t5",
+      "Integrity": "S4skefDi7iYPYF/XXtQNoBk5f2N9wurVgrgZLr4VGlY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\portafolio-funcionando.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
@@ -4114,6 +4135,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-QAVpZNEvjtBVDzL580zJ1FR0qgVSZX+RtQLf0DMOMeU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/portafolio-funcionando.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\portafolio-funcionando.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4skefDi7iYPYF/XXtQNoBk5f2N9wurVgrgZLr4VGlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 20:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4skefDi7iYPYF/XXtQNoBk5f2N9wurVgrgZLr4VGlY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/portafolio-funcionando.r4eveln2t5.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\portafolio-funcionando.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4skefDi7iYPYF/XXtQNoBk5f2N9wurVgrgZLr4VGlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 20:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4eveln2t5"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/portafolio-funcionando.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4skefDi7iYPYF/XXtQNoBk5f2N9wurVgrgZLr4VGlY="
         }
       ]
     },

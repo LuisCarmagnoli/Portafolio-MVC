@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\imagenes\\nyt.png"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\portafolio-funcionando.png",
+      "PackagePath": "staticwebassets\\imagenes\\portafolio-funcionando.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\ASP.NET Core Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
       "PackagePath": "staticwebassets\\imagenes\\reddit.png"
     },

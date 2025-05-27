@@ -68,6 +68,7 @@ wwwroot\imagenes\amazon.png
 wwwroot\imagenes\dotnet-imagen-2.png
 wwwroot\imagenes\foto.png
 wwwroot\imagenes\nyt.png
+wwwroot\imagenes\portafolio-funcionando.png
 wwwroot\imagenes\reddit.png
 wwwroot\imagenes\steam.png
 wwwroot\js\site.js
